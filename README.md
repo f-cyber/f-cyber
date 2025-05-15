@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f-cyber 
-- 👀 I’m interested in Full-Stack Development, Agile Leadership, and Business Analysis.
-- 🌱 I’m currently learning Full-Stack Web Development Bootcamp at ZAIO.
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning App Development with IT Varsity on a programme FNB App Academy
 - 💞️ I’m looking to ... collaborate on projects related to Web Development 
 - 📫 How to reach me ... 
 - 😄 Pronouns: him
